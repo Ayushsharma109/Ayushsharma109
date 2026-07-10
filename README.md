@@ -9,7 +9,7 @@ I specialize in building intelligent business systems, agentic workflows, and pr
 
 ---
 ### 📁 Featured Projects
-- **[Production AI Agents & n8n Automations]https://github.com/Ayushsharma109/production-ai-agents-n8n.git My core portfolio featuring autonomous CRM lead scoring pipelines and supply chain risk mitigation agents.
+- https://github.com/Ayushsharma109/production-ai-agents-n8n.git My core portfolio featuring autonomous CRM lead scoring pipelines and supply chain risk mitigation agents.
 
 <!--
 **Ayushsharma109/Ayushsharma109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

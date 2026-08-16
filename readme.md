@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Ayush%20Sharma&fontSize=42&fontColor=1e2327&animation=twinkling&fontAlignY=35" />
 
 <a href="https://github.com/Ayushsharma109">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Building+production-grade+agentic+systems;n8n+%7C+Python+%7C+LangChain+%7C+MCP+Orchestration;Turning+LLM+APIs+into+real+workflows" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+And+Automation+Engineer;Building+production-grade+agentic+systems;n8n+%7C+Python+%7C+LangChain+%7C+MCP+Orchestration;Turning+LLM+APIs+into+real+workflows" />
 </a>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=probot&logoColor=1e2327&labelColor=1e2327)
@@ -19,7 +19,7 @@
 
 ```typescript
 const ayush = {
-  title: "AI Automation Engineer",
+  title: "AI And Automation Engineer",
   status: "Fresher / Entry-Level",
   stack: ["n8n", "Python", "SQL", "JavaScript", "Docker", "LangChain", "MCP Orchestration"],
   llmApis: ["Claude", "Gemini", "OpenAI"],
